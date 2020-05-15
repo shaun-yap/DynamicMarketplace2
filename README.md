@@ -1,3 +1,12 @@
+### Welcome
+This is a fork of Eric's Dynamic Market. I'm looking to tweak it more towards what I see in it, and to allow for a greater degree of customisation. I have 0 Java or OOP language experience, so I'm using this as pratice.
+
+### What I hope to achieve
+- XML based storage
+- Ability to self generate recipes and costs
+- Ability to tweak stock
+- More to come?
+
 ### Install Steps
 - The Folder `Dynamic Market` should be put into the plugins folder of the server. It contains the data about recipies that is loaded by the plugin on startup.
 - The file `DynamicMarketplace.jar` should be put into the plugins folder of the server
